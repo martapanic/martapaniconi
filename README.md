@@ -1,7 +1,5 @@
 # martapaniconi
 
-[Banner]([link-dell-immagine](https://it.pinterest.com/pin/19984792091651507/))
-
 # Hi 👋, I'm Marta
 
 🎓 I'm currently studying **Artificial Intelligence** at the University of Pavia.  
